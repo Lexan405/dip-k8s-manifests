@@ -1,0 +1,12 @@
+# Secrets
+*.secret.yaml
+secrets/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
